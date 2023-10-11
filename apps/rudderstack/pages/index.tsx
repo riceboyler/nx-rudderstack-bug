@@ -1,4 +1,5 @@
 import styled from '@emotion/styled';
+import { RudderAnalytics } from '@rudderstack/analytics-js/bundled';
 
 const StyledPage = styled.div`
   .page {
